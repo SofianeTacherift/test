@@ -1,1 +1,3 @@
 bonjhour ca va
+
+je regle un bug de truc.txt
